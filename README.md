@@ -1,11 +1,9 @@
-splunk-crowd-auth
+splunk-cf-uaa
 =================
 
-A python script that allows Splunk to integrate with Atlassian Crowd for authentication.
+A python script that allows Splunk to integrate with CF UAA for authentication.
 
 #Dependencies
-
-- [python-crowd](https://github.com/aelse/python-crowd)
 
 #See Also
 
